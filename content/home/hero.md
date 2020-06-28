@@ -44,4 +44,4 @@ hero_media = "user-2.jpg"
 +++
 ## I'm **Dr. Stephen E. Hill** and I'm an **Associate Professor** of **Business Analytics**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+Lorem lorem Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
